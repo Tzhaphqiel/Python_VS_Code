@@ -1,0 +1,8 @@
+places = list()
+touple_1 = ('Uzlovaya', '50 years October')
+touple_2 = ('Novomoskovsk', '9 Olimpiskaya')
+touple_3 = ('Novomoskovsk', '13d Mira')
+places.append(touple_1)
+places.append(touple_2)
+places.append(touple_3)
+print(places)
